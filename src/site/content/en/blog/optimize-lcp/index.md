@@ -487,7 +487,7 @@ The above code works for standard navigations, but extra consideration must be t
 The [web-vitals library](https://github.com/GoogleChrome/web-vitals) includes this breakdown in the attribution build, and includes these considerations.
 </p>
 <p>
-For those looking to implement their own solution, the [code for this is open source](https://github.com/GoogleChrome/web-vitals/blob/main/src/attribution/onLCP.ts) and is similar to above but with extra lofic for activation start.
+For those looking to implement their own solution, the [code for this is open source](https://github.com/GoogleChrome/web-vitals/blob/main/src/attribution/onLCP.ts) and is similar to above but with extra logic for activation start.
 </p>
 {% endAside %}
 
